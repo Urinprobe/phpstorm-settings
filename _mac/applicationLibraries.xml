@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="video" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_6.2.7_video.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_6.2.7_video.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="videojs-ie8" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_ie8_1.1.2_videojs-ie8.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_vjs.zencdn.net_ie8_1.1.2_videojs-ie8.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
