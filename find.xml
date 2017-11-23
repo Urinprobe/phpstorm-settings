@@ -1,7 +1,28 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution Explorer Selection" />
-    <option name="defaultScopeName" value="Solution Explorer Selection" />
-    <option name="SEARCH_SCOPE" value="Solution Explorer Selection" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>c</mask>
+      <mask>cs</mask>
+      <mask>css</mask>
+      <mask>ss</mask>
+      <mask>lss</mask>
+      <mask>less</mask>
+      <mask>*less</mask>
+      <mask>*.less</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
   </component>
 </application>
