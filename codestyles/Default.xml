@@ -1,14 +1,8 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -42,9 +36,6 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
-  <JSCodeStyleSettings>
-    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
-  </JSCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -75,7 +66,6 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
-    <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
@@ -129,9 +119,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="METHOD_BRACE_STYLE" value="2" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
@@ -149,8 +136,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="BRACE_STYLE" value="2" />
-    <option name="LAMBDA_BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
