@@ -17,12 +17,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
+          <ShortCut>'⌥⌘↖'</ShortCut>
+          <Description>DDL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Data Source Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -49,12 +57,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'⌘E'</ShortCut>
+          <Description>Recent Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reload Page">
         <Item>
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'start'">
@@ -65,12 +81,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -86,7 +110,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -102,7 +126,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
