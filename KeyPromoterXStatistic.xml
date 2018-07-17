@@ -22,7 +22,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Configure PHP Include Paths...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="DDL">
@@ -103,6 +103,14 @@
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Library Settings">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Library Settings</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
