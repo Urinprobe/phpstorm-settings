@@ -81,6 +81,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Execute">
         <Item>
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
