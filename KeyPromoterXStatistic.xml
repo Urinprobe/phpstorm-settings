@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Configure PHP Include Paths...">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
