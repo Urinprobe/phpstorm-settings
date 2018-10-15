@@ -1,11 +1,9 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
