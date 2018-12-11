@@ -1,8 +1,30 @@
 <application>
   <component name="libraryTable">
+    <library name="html2canvas" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_html2canvas.hertzen.com_dist_html2canvas.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_html2canvas.hertzen.com_dist_html2canvas.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="material" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.3.0_material.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="pep" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_pep_0.4.3_pep.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_pep_0.4.3_pep.js" />
       </CLASSES>
       <SOURCES />
     </library>
