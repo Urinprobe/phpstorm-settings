@@ -5,4 +5,7 @@
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
 </application>
