@@ -17,6 +17,19 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="mdl-selectfield" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_kybarg_mdl-selectfield_mdl-menu-implementation_mdl-selectfield.min.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_kybarg_mdl-selectfield_mdl-menu-implementation_mdl-selectfield.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_kybarg_mdl-selectfield_mdl-menu-implementation_mdl-selectfield.min.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.rawgit.com_kybarg_mdl-selectfield_mdl-menu-implementation_mdl-selectfield.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="pep" type="javaScript">
       <properties>
         <sourceFilesUrls>
