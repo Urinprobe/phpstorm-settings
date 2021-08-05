@@ -9,5 +9,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
+    <entry key="external.system.auto.import.disabled" value="true" />
   </component>
 </application>
