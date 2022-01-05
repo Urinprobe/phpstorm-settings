@@ -1,6 +1,21 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="GotoImplementation">
+        <abbreviation name="to" />
+        <abbreviation name="derived" />
+        <abbreviation name="implementation" />
+        <abbreviation name="Inheritance" />
+        <abbreviation name="Hierarchy" />
+        <abbreviation name="Sub" />
+        <abbreviation name="Inheritors" />
+        <abbreviation name="type" />
+        <abbreviation name="struct" />
+        <abbreviation name="class" />
+        <abbreviation name="interface" />
+        <abbreviation name="navigate" />
+        <abbreviation name="Children" />
+      </action>
       <action id="GotoSuperMethod">
         <abbreviation name="definition" />
         <abbreviation name="declaration" />
@@ -16,10 +31,35 @@
         <abbreviation name="symbols" />
         <abbreviation name="method" />
       </action>
-      <action id="GotoSymbol">
+      <action id="GotoAction">
         <abbreviation name="to" />
         <abbreviation name="jump" />
-        <abbreviation name="symbol" />
+        <abbreviation name="action" />
+        <abbreviation name="find" />
+        <abbreviation name="search" />
+        <abbreviation name="look for" />
+        <abbreviation name="lookup" />
+      </action>
+      <action id="RdExposingApiesNavigationAction">
+        <abbreviation name="interface" />
+        <abbreviation name="get" />
+        <abbreviation name="type" />
+        <abbreviation name="obtain" />
+      </action>
+      <action id="ReSharperGotoImplementation">
+        <abbreviation name="implementation" />
+        <abbreviation name="body" />
+        <abbreviation name="to" />
+        <abbreviation name="type" />
+        <abbreviation name="interface" />
+        <abbreviation name="this" />
+        <abbreviation name="navigate" />
+        <abbreviation name="derived" />
+      </action>
+      <action id="GotoFile">
+        <abbreviation name="to" />
+        <abbreviation name="jump" />
+        <abbreviation name="file" />
         <abbreviation name="find" />
         <abbreviation name="search" />
         <abbreviation name="look for" />
@@ -35,6 +75,52 @@
         <abbreviation name="lookup" />
         <abbreviation name="interface" />
         <abbreviation name="struct" />
+      </action>
+      <action id="GotoTypeDeclaration">
+        <abbreviation name="definition" />
+        <abbreviation name="declaration" />
+        <abbreviation name="to" />
+        <abbreviation name="type" />
+        <abbreviation name="struct" />
+        <abbreviation name="class" />
+        <abbreviation name="interface" />
+        <abbreviation name="this" />
+        <abbreviation name="navigate" />
+      </action>
+      <action id="EditorCodeBlockStart">
+        <abbreviation name="to" />
+        <abbreviation name="type" />
+        <abbreviation name="struct" />
+        <abbreviation name="class" />
+        <abbreviation name="method" />
+        <abbreviation name="this" />
+        <abbreviation name="navigate" />
+        <abbreviation name="Containing" />
+        <abbreviation name="declaration" />
+        <abbreviation name="signature" />
+      </action>
+      <action id="SearchEverywhere">
+        <abbreviation name="to" />
+        <abbreviation name="jump" />
+        <abbreviation name="everything" />
+        <abbreviation name="find" />
+        <abbreviation name="search" />
+        <abbreviation name="look for" />
+        <abbreviation name="lookup" />
+      </action>
+      <action id="FileStructurePopup">
+        <abbreviation name="to" />
+        <abbreviation name="jump" />
+        <abbreviation name="member" />
+        <abbreviation name="find" />
+        <abbreviation name="search" />
+        <abbreviation name="look for" />
+        <abbreviation name="lookup" />
+        <abbreviation name="method" />
+        <abbreviation name="property" />
+        <abbreviation name="constructor" />
+        <abbreviation name="field" />
+        <abbreviation name="internal" />
       </action>
       <action id="NavigateTo">
         <abbreviation name="to" />
@@ -80,101 +166,6 @@
         <abbreviation name="navigate" />
         <abbreviation name="this" />
       </action>
-      <action id="EditorCodeBlockStart">
-        <abbreviation name="to" />
-        <abbreviation name="type" />
-        <abbreviation name="struct" />
-        <abbreviation name="class" />
-        <abbreviation name="method" />
-        <abbreviation name="this" />
-        <abbreviation name="navigate" />
-        <abbreviation name="Containing" />
-        <abbreviation name="declaration" />
-        <abbreviation name="signature" />
-      </action>
-      <action id="GotoTypeDeclaration">
-        <abbreviation name="definition" />
-        <abbreviation name="declaration" />
-        <abbreviation name="to" />
-        <abbreviation name="type" />
-        <abbreviation name="struct" />
-        <abbreviation name="class" />
-        <abbreviation name="interface" />
-        <abbreviation name="this" />
-        <abbreviation name="navigate" />
-      </action>
-      <action id="FileStructurePopup">
-        <abbreviation name="to" />
-        <abbreviation name="jump" />
-        <abbreviation name="member" />
-        <abbreviation name="find" />
-        <abbreviation name="search" />
-        <abbreviation name="look for" />
-        <abbreviation name="lookup" />
-        <abbreviation name="method" />
-        <abbreviation name="property" />
-        <abbreviation name="constructor" />
-        <abbreviation name="field" />
-        <abbreviation name="internal" />
-      </action>
-      <action id="RdExposingApiesNavigationAction">
-        <abbreviation name="interface" />
-        <abbreviation name="get" />
-        <abbreviation name="type" />
-        <abbreviation name="obtain" />
-      </action>
-      <action id="GotoFile">
-        <abbreviation name="to" />
-        <abbreviation name="jump" />
-        <abbreviation name="file" />
-        <abbreviation name="find" />
-        <abbreviation name="search" />
-        <abbreviation name="look for" />
-        <abbreviation name="lookup" />
-      </action>
-      <action id="GotoImplementation">
-        <abbreviation name="to" />
-        <abbreviation name="derived" />
-        <abbreviation name="implementation" />
-        <abbreviation name="Inheritance" />
-        <abbreviation name="Hierarchy" />
-        <abbreviation name="Sub" />
-        <abbreviation name="Inheritors" />
-        <abbreviation name="type" />
-        <abbreviation name="struct" />
-        <abbreviation name="class" />
-        <abbreviation name="interface" />
-        <abbreviation name="navigate" />
-        <abbreviation name="Children" />
-      </action>
-      <action id="SearchEverywhere">
-        <abbreviation name="to" />
-        <abbreviation name="jump" />
-        <abbreviation name="everything" />
-        <abbreviation name="find" />
-        <abbreviation name="search" />
-        <abbreviation name="look for" />
-        <abbreviation name="lookup" />
-      </action>
-      <action id="ReSharperGotoImplementation">
-        <abbreviation name="implementation" />
-        <abbreviation name="body" />
-        <abbreviation name="to" />
-        <abbreviation name="type" />
-        <abbreviation name="interface" />
-        <abbreviation name="this" />
-        <abbreviation name="navigate" />
-        <abbreviation name="derived" />
-      </action>
-      <action id="GotoAction">
-        <abbreviation name="to" />
-        <abbreviation name="jump" />
-        <abbreviation name="action" />
-        <abbreviation name="find" />
-        <abbreviation name="search" />
-        <abbreviation name="look for" />
-        <abbreviation name="lookup" />
-      </action>
       <action id="ShowUsages">
         <abbreviation name="to" />
         <abbreviation name="type" />
@@ -186,6 +177,15 @@
         <abbreviation name="usage" />
         <abbreviation name="assignment" />
         <abbreviation name="method" />
+      </action>
+      <action id="GotoSymbol">
+        <abbreviation name="to" />
+        <abbreviation name="jump" />
+        <abbreviation name="symbol" />
+        <abbreviation name="find" />
+        <abbreviation name="search" />
+        <abbreviation name="look for" />
+        <abbreviation name="lookup" />
       </action>
     </abbreviations>
   </component>
