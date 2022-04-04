@@ -6,6 +6,10 @@
     <driver id="azure.ms">
       <option name="auto-sync" value="false" />
     </driver>
+    <driver id="mysql.8" dialect="MariaDB">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.45" />
     </driver>
